@@ -91,6 +91,7 @@ img {
     width: 500px;
     margin: auto;
     padding: 30px 0;
+    animation-direction: alternate-reverse;
 }
 
 .intro>p {
